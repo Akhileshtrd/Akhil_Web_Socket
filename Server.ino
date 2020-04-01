@@ -3,8 +3,8 @@
 #include <WebSocketsServer.h>
 #include <Hash.h>
 
-const char* ssid = "DG_QMS";         
-const char* password = "PASSWORD"; 
+const char* ssid = "Your SSID";         
+const char* password = "Your PASSWORD"; 
 
 IPAddress ip(192,168,11,4);
 IPAddress gateway(192,168,11,1);
