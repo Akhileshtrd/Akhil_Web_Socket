@@ -4,8 +4,8 @@
 #include <WebSocketsClient.h>
 #include <Hash.h>
 
-const char* ssid = "*********";           
-const char* password = "********";    
+const char* ssid = "YOUR SSID";           
+const char* password = "YOUR PSWD";    
 
 WebSocketsClient webSocket;
 
